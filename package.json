@@ -1,0 +1,23 @@
+{
+  "name": "42-Speed-Run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TDD-Solidity/42-Speed-Run.git"
+  },
+  "keywords": [],
+  "author": "JimLynchCodes <jim.lynch@evaluates2.com> (https://evaluates2.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TDD-Solidity/42-Speed-Run/issues"
+  },
+  "homepage": "https://github.com/TDD-Solidity/42-Speed-Run#readme"
+}
